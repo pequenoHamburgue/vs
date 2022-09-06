@@ -1,0 +1,1 @@
+Este projeto simula o efeito de maquina de escrever
