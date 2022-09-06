@@ -1,2 +1,0 @@
-/*coments*/
-console.log("hello")
